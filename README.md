@@ -59,6 +59,3 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on AI, Machine Learning, and Full Stack projects. Feel free to connect with me on LinkedIn or explore my repositories.
