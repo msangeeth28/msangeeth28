@@ -15,7 +15,7 @@
 
 📚 Exploring <b>Generative AI, Advanced Machine Learning,</b> and <b>Data Science</b>.<br><br>
 
-💻 Interested in <b>AI, Full Stack Development,</b> and solving real-world problems.<br><br>
+💻 Interested in <b>Agentic AI, Full Stack Development,</b> and solving real-world problems.<br><br>
 
 ✨ I love transforming ideas into intelligent solutions through technology.
 <br>
