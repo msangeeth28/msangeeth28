@@ -5,20 +5,15 @@
   Hi, I'm <strong>P T M SANGEETH</strong>
 </h1>
 
-<h3>AI & Machine Learning Enthusiast | Python • ML • React.js</h3>
+<h3>AI/ML Engineer | Generative AI • RAG • Python • Machine Learning</h3> <div align="left"> <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" /> <p> 🚀 Building practical <b>AI/ML and Generative AI applications</b> using <b>Python, LangChain, and Machine Learning</b>.<br><br>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+🤖 Exploring <b>RAG pipelines, Multi-Agent Systems, LLMs, Prompt Engineering,</b> and AI-powered applications.<br><br>
 
-<p>
-🚀 Building AI-powered applications using <b>Python, Machine Learning, and React.js</b>.<br><br>
+🧠 Hands-on with <b>LangChain, CrewAI, Google Gemini, ChromaDB, Hugging Face, Scikit-Learn,</b> and <b>XGBoost</b>.<br><br>
 
-📚 Exploring <b>Generative AI, Advanced Machine Learning,</b> and <b>Data Science</b>.<br><br>
-
-💻 Interested in <b>Agentic AI, Full Stack Development,</b> and solving real-world problems.<br><br>
-
-✨ I love transforming ideas into intelligent solutions through technology.
+✨ Passionate about transforming real-world problems into <b>practical and intelligent AI solutions</b>.
 <br>
+
 </p>
 
   <p>
